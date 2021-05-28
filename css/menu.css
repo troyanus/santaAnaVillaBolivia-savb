@@ -1,0 +1,33 @@
+#menu ul{
+    justify-content: flex-end;
+    display: flex;
+    padding: .50em 1em;
+}
+
+#menu li{
+    display: inline-block;
+    float: right;
+    text-align:left;
+}
+
+#menu a{
+    margin-right: 0.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 1em 1em;
+    background:	#000F4A;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    border-radius: 5px;
+}
+
+#menu a:hover{
+    background: whitesmoke;
+    color:#000F4A;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-shadow: 1px 1px 0px #000F4A;
+    box-shadow: inset 0px -2px 5px 0px #000F4A;
+    border-radius: 5px;
+}
