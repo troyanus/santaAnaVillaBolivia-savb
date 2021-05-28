@@ -1,23 +1,4 @@
-*{
-    border: none;
-    padding:none;
-    border-radius: 0%;
-}
 
-#menu ul{
-    padding:none;
-}
-
-#menu li{
-    display: inline-block;
-
-}
-
-#menu a{
-    text-decoration: none;
-    float: left;
-    text-transform: uppercase;
-}
 
 /*banner*/
 #bannergestravel{
